@@ -1,0 +1,75 @@
+.navigation {
+    display: inline-block;
+    padding: 25px;
+    padding-left: 50px;
+    padding-right: 50px;
+    background-color: rgb(43, 42, 42);
+    color: white;
+
+}
+
+nav {
+    background: rgb(197, 197, 197);
+}
+.left {
+    display: block;
+    background-color: blue;
+    width: 30%;
+    height: 850px;
+    float: left;
+}
+
+.right {
+    display: block;
+    background-color: cadetblue;
+    width: 70%;
+    height: 850px;
+    float: left;
+
+}
+
+.top {
+    border-color: black 1px solid;
+    background-color: cornsilk;
+}
+
+.profilePic {
+    width: 150px;
+    padding-top: 25px;
+    padding-left: 75px;
+}
+
+.name {
+    text-align: center;
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.list {
+    padding: 25px;
+    
+}
+
+.big {
+    float: left;
+    padding: 25px;
+}
+
+.body {
+    padding-left: 25px;
+    padding-right: 25px;
+}
+
+
+.smallPic {
+    padding: 25px;
+    width: 100px;
+}
+
+.title {
+    text-align: center;
+}
